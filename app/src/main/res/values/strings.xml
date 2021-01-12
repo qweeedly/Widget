@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="widget_name">Название виджета</string>
+    <string name="widget_text">Текст отображаемый виджетом</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="weather_api_key">ac0fdd661cdb041bb5eb7b78c11fa246</string>
+</resources>
